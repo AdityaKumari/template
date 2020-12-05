@@ -1,6 +1,7 @@
 <p align="center">
 <a href="https://dscommunity.in">
-	<img src="https://github.com/AdityaKumari/csea/blob/master/csea.jpeg?raw=true" width=20% align="left">
+	<img src="https://github.com/AdityaKumari/template/blob/main/csea.jpeg?raw=true" width=20% align="left">
+	
 	
 </a>
 <br>
@@ -53,7 +54,7 @@
 
 
 <li>
-<img src = "https://github.com/AdityaKumari/csea/blob/master/placeholder.png?raw=true"  height="120" alt=""> Your name here.....
+<img src = "https://github.com/AdityaKumari/template/blob/master/placeholder.png?raw=true"  height="120" alt=""> Your name here.....
 <p>
 <a href = "#"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
 <a href = "#">
@@ -63,7 +64,7 @@
 
 
 <li>
-<img src = "https://github.com/AdityaKumari/csea/blob/master/placeholder.png?raw=true"  height="120" alt=""> Your name here.....
+<img src = "https://github.com/AdityaKumari/template/blob/master/placeholder.png?raw=true"  height="120" alt=""> Your name here.....
 <p>
 <a href = "#"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
 <a href = "#">
@@ -73,7 +74,7 @@
 
 
 <li>
-<img src = "https://github.com/AdityaKumari/csea/blob/master/placeholder.png?raw=true"  height="120" alt=""> Your name here.....
+<img src = "https://github.com/AdityaKumari/template/blob/master/placeholder.png?raw=true"  height="120" alt=""> Your name here.....
 <p>
 <a href = "#"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
 <a href = "#">
